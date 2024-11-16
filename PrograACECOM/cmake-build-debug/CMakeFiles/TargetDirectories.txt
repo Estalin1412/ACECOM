@@ -1,0 +1,3 @@
+D:/Estalin/PrograACECOM/cmake-build-debug/CMakeFiles/PrograACECOM.dir
+D:/Estalin/PrograACECOM/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Estalin/PrograACECOM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
